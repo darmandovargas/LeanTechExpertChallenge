@@ -1,0 +1,15 @@
+SET NAMES utf8;
+INSERT INTO `position` VALUES (1, 'Software Architect');
+INSERT INTO `position` VALUES (2, 'Senior Developer');
+INSERT INTO `position` VALUES (3, 'Middle Developer');
+INSERT INTO `position` VALUES (4, 'Junior Developer');
+INSERT INTO `candidate` VALUES (1, 'Cra x Calle y', '3108311240', 'Sabaneta', 'Vargas', 'Diego');
+INSERT INTO `candidate` VALUES (2, 'Cra x Calle y', '3108311241', 'Sabaneta', 'Vargas', 'María');
+INSERT INTO `candidate` VALUES (3, 'Cra x Calle y', '3108311242', 'Sabaneta', 'Vargas', 'Charlotte');
+INSERT INTO `candidate` VALUES (4, 'Cra x Calle y', '3108311243', 'Sabaneta', 'Vargas', 'Valeria');
+INSERT INTO `candidate` VALUES (5, 'Cra x Calle y', '3108311244', 'Sabaneta', 'Restrepo', 'Diego');
+INSERT INTO `employee` VALUES (1, 5000, 1, 1); 
+INSERT INTO `employee` VALUES (2, 4000, 2, 1);
+INSERT INTO `employee` VALUES (3, 3000, 3, 2); 
+INSERT INTO `employee` VALUES (4, 2000, 4, 3);
+INSERT INTO `employee` VALUES (5, 2000, 5, 3);  
